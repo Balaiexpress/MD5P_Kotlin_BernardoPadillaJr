@@ -5,7 +5,7 @@ fun main(){
     var desiredSalary:Int = 50000
 
     //Personal Information
-    var lastName:String = "Padilla Jr"
+    var lastName:String = "Padilla Jr0"
     var firsName:String = "Bernardo"
     var middleName:String = "Pracillo"
 
